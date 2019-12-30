@@ -5,5 +5,5 @@ You need to install the following dependent libraries
 ```
 pip install matplotlib
 ```
-## Snapshot
+## Screenshot
 ![run](./five-in-a-row/run.png)
