@@ -2,5 +2,8 @@
 tkinter implements five-in-a-row
 ```
 left mouse button -> drop chess
-right mouse button -> restart
+middle mouse button -> restart
+right mouse button -> undo
 ```
+## Running
+<img src="five-in-a-row/running.jpg" width="30%" height="30%" alt="running">
